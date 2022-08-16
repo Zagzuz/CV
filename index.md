@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Ruslan Karabalin
 
-You can use the [editor on GitHub](https://github.com/Zagzuz/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Software developer, student_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:heckfynook@gmail.com) / [Telegram](https://t.me/Zagzuz) / [GitHub](https://github.com/Zagzuz)
 
-### Markdown
+## 👨‍💻 Core skills and technologies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  - WinAPI, WinDbg and Windows-specific driver development
+  - Data analysis, clustering and classification
+  - Python web scraping
+  - OOP paradigm
+  - C++, STL
+  - Git
+  - Yacc/Bison (university project)
+  - Linux (user-level understanding)
+  - SQL (queries)
 
-```markdown
-Syntax highlighted code block
+## 👀 Field of interest
 
-# Header 1
-## Header 2
-### Header 3
+  - Networking, data processing and machine learning
+  - C++ language development: been following language-related conferences and speeches
+  - Asynchronous/parallel programming, concurrency, compile-time calculations and template metaprogramming
+  - Game development and GUI
+  - Decentralised technologies, blockchain-related in particular
 
-- Bulleted
-- List
+## 👨🏻‍🎓 Education
 
-1. Numbered
-2. List
+**National Research Nuclear University MEPHI** <br>
+Specialist Degree in Information Analysis Security Systems <br>
+Expected graduation date: February 2023 <br>
+<br>
+Courseworks and research projects:
+  - Global Terrorism Database (GTD) analysis
+  - Money laundering: common techniques and how to counter it
+  - Social unrest: defining, measuring and comparing the level over regions
 
-**Bold** and _Italic_ and `Code` text
+## 💼 Occupation
 
-[Link](url) and ![Image](src)
-```
+**AV Soft** _(April 2022 - Present)_ <br>
+Windows-specific (kernel mode primarily) driver module development using C++
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 💬 Languages
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zagzuz/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Russian: native
+- English: C1 level
+- French: A2 level
