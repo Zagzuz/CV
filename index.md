@@ -38,7 +38,7 @@ Courseworks and research projects:
 ## 💼 Occupation
 
 **AV Soft** _(April 2022 - Present)_ <br>
-Windows-specific (kernel mode primarily) driver module development using C++
+Windows-specific (kernel mode primarily) C++ driver development
 
 ## 💬 Languages
 
