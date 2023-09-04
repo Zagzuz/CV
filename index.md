@@ -52,7 +52,7 @@ A highly skilled and dedicated backend developer with a strong background in inf
 
 - Specialist Degree in Information Security <br>
   National Research Nuclear University "Moscow Engineering Physics Institute" (MEPhI), Moscow, Russia <br>
-  Graduated: February 2023 <br>
+  Graduated: February 2023
   - Courseworks and research projects:
     - Global Terrorism Database (GTD) analysis
     - Money laundering: common techniques and how to counter it
