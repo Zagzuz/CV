@@ -3,7 +3,7 @@
 _Male, 24_ <br>
 _Software Developer_ <br>
 _Almaty, Kazakhstan_ <br>
-[e-mail](mailto:heckfynook@gmail.com) >> [telegram](https://t.me/Zagzuz) >> [github](https://github.com/Zagzuz)
+[e-mail](mailto:heckfynook@gmail.com) >> [telegram](https://t.me/Zagzuz)
 
 ## 🎯 Objective
 
